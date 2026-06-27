@@ -1,0 +1,7 @@
+node_modules/
+backend/node_modules/
+backend/.env
+backend/uploads/
+fontend/node_modules/
+fontend/dist/
+.DS_Store
